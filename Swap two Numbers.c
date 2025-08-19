@@ -10,5 +10,5 @@ c=a;
 a=b;
 b=c;
 printf("After Swaping numbers\nThe First Number = %f\nThe Second Number =%f",a,b);
-return 0;
+return
 }
